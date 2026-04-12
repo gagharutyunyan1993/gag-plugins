@@ -1,0 +1,22 @@
+{
+  "name": "claude-dev-pack",
+  "version": "1.0.0",
+  "description": "Complete dev workflow: plan, build, fix, review with modifiers (deep/fast/safe/minimal) and orchestration (agents, iterations). 20 skills with prefixed categories.",
+  "author": {
+    "name": "Gagik Harutyunyan",
+    "url": "https://github.com/gagharutyunyan1993"
+  },
+  "homepage": "https://github.com/gagharutyunyan1993/gag-plugins/tree/main/plugins/claude-dev-pack",
+  "repository": "https://github.com/gagharutyunyan1993/gag-plugins",
+  "license": "MIT",
+  "keywords": [
+    "workflow",
+    "code-review",
+    "planning",
+    "debugging",
+    "testing",
+    "git",
+    "modifiers"
+  ],
+  "skills": "./skills/"
+}

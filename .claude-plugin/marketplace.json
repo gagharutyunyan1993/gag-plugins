@@ -1,0 +1,22 @@
+{
+  "name": "gag-plugins",
+  "owner": {
+    "name": "Gagik Harutyunyan",
+    "url": "https://github.com/gagharutyunyan1993"
+  },
+  "metadata": {
+    "description": "Plugin marketplace for Claude Code",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "claude-dev-pack",
+      "source": "claude-dev-pack",
+      "description": "Complete dev workflow: plan, build, fix, review with modifiers and orchestration. 20 prefixed skills.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Gagik Harutyunyan"
+      }
+    }
+  ]
+}
