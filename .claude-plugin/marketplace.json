@@ -5,13 +5,12 @@
     "url": "https://github.com/gagharutyunyan1993"
   },
   "metadata": {
-    "description": "Plugin marketplace for Claude Code",
-    "pluginRoot": "./plugins"
+    "description": "Plugin marketplace for Claude Code"
   },
   "plugins": [
     {
       "name": "claude-dev-pack",
-      "source": "claude-dev-pack",
+      "source": "./plugins/claude-dev-pack",
       "description": "Complete dev workflow: plan, build, fix, review with modifiers and orchestration. 20 prefixed skills.",
       "version": "1.0.0",
       "author": {
